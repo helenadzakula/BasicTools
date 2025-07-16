@@ -1,0 +1,20 @@
+Package: BasicTools
+Type: Package
+Title: Basic Tools for Data Analysis
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Helena", "Dzakula",
+      email = "h.dzakula@googlemail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: This package provides the possibility for a very brief overview of the data you're analyzing. With this package you can summarize datapoints and calculate the correlation.
+License: Helena Dzakula
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  stats
+RoxygenNote: 7.3.2
+URL: https://github.com/helenadzakula/BasicTools
+BugReports: https://github.com/helenadzakula/BasicTools/issues
